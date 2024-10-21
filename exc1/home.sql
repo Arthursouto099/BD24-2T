@@ -19,5 +19,7 @@ create table Pedidos {
     Id_cliente int,
     foreign key(Id_cliente) references Clientes(Id_do_cliente),
     Id_sorvete int,
-    foreign key(Id_sorvete) references Sorvetes(Id_do_sorvete)
+    foreign key(Id_sorvete) references Sorvetes(Id_do_sorvete),
+    quantidade int,
+    Data_pedido date
 }
