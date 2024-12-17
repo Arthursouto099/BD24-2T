@@ -87,6 +87,7 @@ select name, license_id as ld, car_model, event_name, date from drivers_license 
 --Miranda Priestly	202298	Model S	SQL Symphony Concert	20171212
 --Miranda Priestly	202298	Model S	SQL Symphony Concert	20171229
 
+--Vilan = Miranda Priestly
 -- result = Congrats, you found the brains behind the murder! Everyone in SQL City hails you as the greatest SQL detective of all time. Time to break out the champagne!
               
 	
