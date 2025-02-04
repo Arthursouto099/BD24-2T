@@ -79,6 +79,9 @@ insert into Student(FK_character) values
 (3),
 (4)
 
+insert into spell (name_spell) values ('Especto patronos')
+insert into character_spell values(1, 1)
+
 insert into Class (class_name) values 
 ('Transfiguração'), 
 ('Poções'),
